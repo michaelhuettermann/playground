@@ -27,9 +27,6 @@ try {
             println "1"
         }
 
-        stage('C') {
-            println "2"
-        }
     }
 }
 catch (exc) {
